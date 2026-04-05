@@ -1,10 +1,8 @@
-# BPSC - Base de Dados
+# BPSC - Base de Dados - Templates
 
 1. ASSET
-> Comandos para verificar o ASSET
->> Display
->> <details>
-<summary>✍️<B>Exemplo Summary em MarkDown</B></summary>
+
+<summary>✍️<B>Comandos Display</B></summary>
 <br><p>Qualquer Mensagem</p>
 
 Qualquer Descrição.  
