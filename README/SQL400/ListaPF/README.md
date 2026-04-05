@@ -1,4 +1,4 @@
-[🔙](../../../../README.md)
+[🔙](../../../README.md)
 
 <summary>✍️<B>Lista de Todos os Phisical Files</B> SQL400 </summary>
 <br><p>SQL/400</p>
