@@ -7,6 +7,13 @@
 
 <br>
 
+## 🛠️AS400
+
+- [Comandos](README/AS400/COMANDOS/README.md)
+
+
+<br>
+
 
 ## 🛠️BPCS - Standard
 
