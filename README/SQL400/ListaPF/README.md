@@ -1,5 +1,3 @@
-[🔙](../../../README.md)
-
 <summary>✍️<B>Lista de Todos os Phisical Files</B> SQL400 </summary>
 <br><p>SQL/400</p>
   
@@ -65,3 +63,5 @@ WHERE  A.TABLE_SCHEMA IN(
        'ERPLXPAPTF', 'ERPLXPARF', 'ERPLXPARO', 'ERPLXF',   
        'SSAGTLIC83', 'QGPL', 'QTEMP')    
 ```
+
+[🔙](../../../README.md)
