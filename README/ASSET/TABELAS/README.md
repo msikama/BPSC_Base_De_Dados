@@ -1,6 +1,3 @@
-<details>
-<summary>✍️<B>Tabelas</B></summary>
-
 Lista de Programas 
 ```csharp
    SELECT * FROM BAT
@@ -85,7 +82,3 @@ FROM PRML02
 WHERE PRNAME = 'FAC19B'
 
 ```
-
-
-
-</details>
