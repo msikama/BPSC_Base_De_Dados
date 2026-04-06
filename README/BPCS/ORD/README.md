@@ -1,7 +1,7 @@
 # 📘Order Management
 
 <details>
-<summary>✍️Definição</summary>
+<summary>🎖️Definição</summary>
 
 Mostrar o procedimento O aplicativo de Gerenciamento de Pedidos é um componente chave do Infor ERP LX.
 
@@ -26,6 +26,35 @@ Programas:
 - ORD720D1 (On-line Allocation): Permite verificar detalhes do inventário e realizar manutenções de alocação de estoque para as linhas de um pedido de cliente de forma online
 
 </details>
+
+<details>
+<summary>✍️<B>Consulta Pedido</B></summary>
+
+Consulta Ordem: MENU: ORD / ORD300D1 / Linhas [F14]  
+
+HEADER  
+```csharp
+
+SELECT HID
+     , HORD
+	 , HEDTE
+	 , HCUST
+	 , HSTAT 
+FROM   ECH 
+WHERE HORD = 296162    
+
+```
+
+Detalhe
+```csharp
+
+SELECT *
+FROM   ECL
+WHERE LORD = 296162   
+
+```
+</details>
+
 
 <details>
 	
