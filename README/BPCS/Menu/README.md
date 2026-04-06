@@ -3,13 +3,13 @@
 ## 🛠️Tabelas
 
 - Usuários:
-- 
+  
 ```sql400
    SELECT * FROM ZMAL02 WHERE MAUSR = 'GSWCONSULT' 
 ```
 
 - Programas
-- 
+  
 ```sql400
    SELECT * FROM ZMOL02 WHERE MOPROG LIKE '%CAP300%' 
 ```
