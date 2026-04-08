@@ -1,6 +1,12 @@
 ### Tabelas - ASBG
 
-> BPMPRM - Tabela de Parmetros Gerais
->> SELECT * FROM BPMPRM WHERE PMKEY = 'ETIQOBS'  (ETIQOBS é a chave de acesso)
->> Programa: BPM001
->> Não tem Menu. Executado por nós do Suporte
+<details>
+<summary>✍️<B>BPMPRM</B> Tabela de Parmetros Gerais</summary>
+<br><p>Qualquer Mensagem</p>
+
+  Programa: BPM001 - Não tem Menu. Executado por nós do Suporte
+  
+```csharp
+    SELECT * FROM BPMPRM WHERE PMKEY = 'ETIQOBS'
+```
+</details>
